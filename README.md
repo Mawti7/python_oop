@@ -145,21 +145,7 @@ python tests/smoke_tests.py
 | **📝 Documentation** | Markdown | Professional documentation |
 | **🔧 Tools** | Git, GitHub | Version control and collaboration |
 
-</div>
 
-## 🎨 **Design Philosophy**
-
-<div align="center">
-
-> *"Simplicity is the ultimate sophistication"* - Leonardo da Vinci
-
-This project embodies the Apple design philosophy:
-- **Clarity**: Clean, readable code structure
-- **Elegance**: Beautiful, intuitive interfaces
-- **Functionality**: Every feature serves a purpose
-- **Quality**: Production-ready, thoroughly tested code
-
-</div>
 
 ## 👨‍💻 **About the Creator**
 
