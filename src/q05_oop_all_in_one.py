@@ -1,5 +1,10 @@
-# OOP Exercise: Combined Concepts
-# Demonstrates composition, dunder methods, class methods, and validation
+"""
+OOP Exercise: Combined Concepts
+Demonstrates composition, dunder methods, class methods, and validation
+
+Author: Aditya Kasyap
+Website: https://www.adityakasyap.com
+"""
 
 class Price:
     def __init__(self, value: float, currency: str = "INR"):

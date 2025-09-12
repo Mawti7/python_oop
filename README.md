@@ -96,3 +96,14 @@ python tests/smoke_tests.py
 - JSON handling and error management
 - Command-line interface development
 - Exception handling and validation
+
+## About the Author
+
+I'm [Aditya Kasyap](https://www.adityakasyap.com), a Data Scientist and AI enthusiast with experience in Machine Learning, AI, and Data Visualization. This project demonstrates my Python programming skills and understanding of Object-Oriented Programming principles.
+
+**Connect with me:**
+- 🌐 **Portfolio**: [www.adityakasyap.com](https://www.adityakasyap.com)
+- 💼 **LinkedIn**: [linkedin.com/in/adityakasyap](https://linkedin.com/in/adityakasyap)
+- 📧 **Email**: [aditya@adibiz.in](mailto:aditya@adibiz.in)
+
+*This assignment showcases my ability to implement complex OOP concepts and handle HTTP requests effectively, skills essential for modern software development and data science applications.*

@@ -1,5 +1,10 @@
-# HTTP Exercise: Mini CLI HTTP Client
-# Demonstrates command-line HTTP client with multiple methods
+"""
+HTTP Exercise: Mini CLI HTTP Client
+Demonstrates command-line HTTP client with multiple methods
+
+Author: Aditya Kasyap
+Website: https://www.adityakasyap.com
+"""
 
 import sys
 import json

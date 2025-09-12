@@ -1,5 +1,10 @@
-# OOP Exercise: Class & Object Basics
-# Demonstrates basic class definition, attributes, and methods
+"""
+OOP Exercise: Class & Object Basics
+Demonstrates basic class definition, attributes, and methods
+
+Author: Aditya Kasyap
+Website: https://www.adityakasyap.com
+"""
 
 class Book:
     def __init__(self, title, author, price):
