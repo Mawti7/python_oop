@@ -99,7 +99,7 @@ python tests/smoke_tests.py
 
 ## About the Author
 
-I'm [Aditya Kasyap](https://www.adityakasyap.com), a Data Scientist and AI enthusiast with experience in Machine Learning, AI, and Data Visualization. This project demonstrates my Python programming skills and understanding of Object-Oriented Programming principles.
+This project was created by [Aditya Kasyap](https://www.adityakasyap.com), a Data Scientist and AI enthusiast with experience in Machine Learning, AI, and Data Visualization. The exercises showcase practical applications of Object-Oriented Programming concepts and HTTP request handling in Python.
 
 **Connect with me:**
 - 🌐 **Portfolio**: [www.adityakasyap.com](https://www.adityakasyap.com)
@@ -107,4 +107,4 @@ I'm [Aditya Kasyap](https://www.adityakasyap.com), a Data Scientist and AI enthu
 - 📸 **Instagram**: [instagram.com/thekasyap](https://instagram.com/thekasyap)
 - 📧 **Email**: [aditya@adibiz.in](mailto:aditya@adibiz.in)
 
-*This assignment showcases my ability to implement complex OOP concepts and handle HTTP requests effectively, skills essential for modern software development and data science applications.*
+*This assignment demonstrates practical implementation of complex OOP concepts and HTTP request handling, skills essential for modern software development and data science applications.*
