@@ -15,7 +15,7 @@ def do_put():
     }
     
     headers = {"Content-Type": "application/json"}
-    response = requests.put(url, json=payload, headers=headers)
+    response = requests.put(url, json=payload, headers=headers, timeout=5)
     
     print(f"PUT Response Status Code: {response.status_code}")
     if response.status_code in [200, 201]:
@@ -27,7 +27,7 @@ def do_put():
 def do_delete():
     # Make DELETE request
     url = "https://jsonplaceholder.typicode.com/posts/1"
-    response = requests.delete(url)
+    response = requests.delete(url, timeout=5)
     
     print(f"DELETE Response Status Code: {response.status_code}")
     return response.status_code

@@ -16,7 +16,7 @@ def main():
     # Set headers to indicate JSON content
     headers = {"Content-Type": "application/json"}
     
-    response = requests.post(url, json=payload, headers=headers)
+    response = requests.post(url, json=payload, headers=headers, timeout=5)
     
     # Print status code
     print(f"Status Code: {response.status_code}")

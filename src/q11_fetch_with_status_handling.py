@@ -5,7 +5,7 @@ import requests
 
 def fetch_data(url: str) -> None:
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=5)
         
         if response.status_code == 200:
             print("Success")
