@@ -2,7 +2,7 @@
 
 # 🐍 Python OOP + HTTP Requests Assignment
 
-### *Elegant Object-Oriented Programming & HTTP Mastery*
+### *Object-Oriented Programming & HTTP Mastery*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Requests](https://img.shields.io/badge/Requests-HTTP-green?style=for-the-badge&logo=python&logoColor=white)](https://requests.readthedocs.io)
