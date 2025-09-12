@@ -103,7 +103,8 @@ I'm [Aditya Kasyap](https://www.adityakasyap.com), a Data Scientist and AI enthu
 
 **Connect with me:**
 - 🌐 **Portfolio**: [www.adityakasyap.com](https://www.adityakasyap.com)
-- 💼 **LinkedIn**: [linkedin.com/in/adityakasyap](https://linkedin.com/in/adityakasyap)
+- 💼 **LinkedIn**: [linkedin.com/in/thekasyap](https://linkedin.com/in/thekasyap)
+- 📸 **Instagram**: [instagram.com/thekasyap](https://instagram.com/thekasyap)
 - 📧 **Email**: [aditya@adibiz.in](mailto:aditya@adibiz.in)
 
 *This assignment showcases my ability to implement complex OOP concepts and handle HTTP requests effectively, skills essential for modern software development and data science applications.*

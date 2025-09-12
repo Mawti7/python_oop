@@ -49,7 +49,8 @@ For any questions or suggestions, feel free to reach out:
 - **Author**: Aditya Kasyap
 - **Website**: [www.adityakasyap.com](https://www.adityakasyap.com)
 - **Email**: [aditya@adibiz.in](mailto:aditya@adibiz.in)
-- **LinkedIn**: [linkedin.com/in/adityakasyap](https://linkedin.com/in/adityakasyap)
+- **LinkedIn**: [linkedin.com/in/thekasyap](https://linkedin.com/in/thekasyap)
+- **Instagram**: [instagram.com/thekasyap](https://instagram.com/thekasyap)
 
 ## License
 
